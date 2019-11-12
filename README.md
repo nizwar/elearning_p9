@@ -1,6 +1,6 @@
 # Tugas Elearning UBSI Pertemuan 9, 2019
 File untuk menyelesaikan tugas UBSI Pertemuan 9 oleh Mochamad Nizwar Syafuan.
-Video : [Youtube Hang Puan](https://github.com/nizwar/elearning_p9)
+Video : [Youtube Hang Puan](https://youtu.be/pZQXsmbnI3Y)
 
 ## Dengan Ketentuan Tugas:
 > 1. Ikuti tahapan-tahapan yang ada pada https://www.c-sharpcorner.com/article/login-service-in-php-and-mysql-for-android-application/ sampai menghasilkan file service_userlogin.php.
